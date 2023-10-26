@@ -1,0 +1,21 @@
+ body {
+    background-color: rgb(181, 199, 228);
+ }
+ h1{
+    background-color:rgb(78, 149, 212);
+    color: aliceblue;
+    border-radius: 20em;
+}
+ div{
+    background-color:rgb(78, 149, 212);
+    color: aliceblue;
+    border-radius: 20em;
+ }
+button{
+    background-color:aliceblue;
+    color:rgb(78, 149, 212);
+    border-radius: 20em;
+}
+input{
+    border-radius: 20em;
+}
